@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tai Hyoung (William) Rhee 이태형</h1>
-<h3 align="center">Currently a student in Seoul National University, Korea, pursuing a double major in Mechanical Engineering & System Semiconducting Engineering for AI.</h3>
+<h3 align="center">Currently a student in Seoul National University, Korea, pursuing a double major in Mechanical Engineering.</h3>
 
 - 📫 How to reach me:     **williamrhee@snu.ac.kr**
 - 🌱 I’m interested in:   **Computer Vision, Robotics, SLAM, Robot Learning, Deep Reinforcement Learning**
