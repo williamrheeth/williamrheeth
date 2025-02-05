@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tai Hyoung (William) Rhee 이태형</h1>
-<h3 align="center">Currently a student in Seoul National University, Korea, pursuing Mechanical Engineering.</h3>
+<h3 align="center">Currently a M.S. student in RPM Robotics Lab, Seoul National University, Korea.</h3>
 
 - 📫 How to reach me:     **williamrhee@snu.ac.kr**
-- 🌱 I’m interested in:   **Computer Vision, Robotics, SLAM, Robot Learning, Deep Reinforcement Learning**
+- 🌱 I’m interested in:   **Computer Vision, Robotics, VIO, SLAM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
